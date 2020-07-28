@@ -4,6 +4,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Installation .
+
+First clone  git repo:
+
+git clone https://github.com/sachintha29/netflix-clone.git
+
+
+Then go to cd netflix
+
+Next  type "npm install" to install relevent packages .
+
+Next create account on https://www.themoviedb.org/ and get api key on setting .
+
+add API_KEY for src/requests.js.
+
+Then type "npm start" terminal.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
@@ -25,7 +42,16 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more 
+information.
+
+
+
+### Deployment
+
+Deploy using firebase  :firebase deploy
+
+Hostig url:Hosting URL: https://netfiix-clone.web.app
 
 ### `npm run eject`
 
@@ -59,10 +85,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+Hostim
